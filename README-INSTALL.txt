@@ -1,0 +1,1 @@
+Upload all files to your GitHub repo root and enable Pages from 'main' branch → root.
