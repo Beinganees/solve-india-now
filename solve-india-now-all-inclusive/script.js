@@ -1,0 +1,1 @@
+console.log('Solve India Now loaded');
